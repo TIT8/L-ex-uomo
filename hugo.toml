@@ -478,9 +478,9 @@ theme = 'FixIt'
         versionCheck = true
       #  Disqus comment config (https://disqus.com)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "provatito"
       #  Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
@@ -695,7 +695,7 @@ theme = 'FixIt'
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = false
+    enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
