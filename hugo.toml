@@ -117,13 +117,13 @@ theme = 'FixIt'
     # For advanced use, see parameter `params.customFilePath.footer`
     custom = ""
     #  whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     #  whether to show copyright info
     copyright = true
     #  whether to show the author
-    author = true
+    author = false
     # Site creation year
-    since = 2021
+    since = 2023
     #  whether to show total word count of site content
     wordCount = true
     #  Public network security only in China (HTML format is supported)
