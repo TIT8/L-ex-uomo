@@ -1,1 +1,1 @@
-# [L-ex-uomo](lexuomo.netlify.app)
+# [L-ex-uomo](https://lexuomo.netlify.app)
