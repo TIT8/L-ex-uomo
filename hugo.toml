@@ -922,10 +922,10 @@ theme = 'FixIt'
     # FixIt 0.2.14 | NEW add user-defined content to menu items
     [menu.main.params]
       # add css class to a specific menu item
-      class = ""
+      #class = ""
       # whether set as a draft menu item whose function is similar to a draft post/page
-      draft = false
+      #draft = false
       # FixIt 0.2.16 | NEW add fontawesome icon to a specific menu item
-      icon = ""
+      #icon = ""
       # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
-      type = ""
+      #type = ""
