@@ -684,7 +684,7 @@ theme = 'FixIt'
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-JGS23MPX76"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
