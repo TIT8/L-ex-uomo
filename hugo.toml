@@ -681,7 +681,7 @@ theme = 'FixIt'
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "G-JGS23MPX76"
