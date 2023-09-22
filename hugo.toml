@@ -22,7 +22,7 @@ theme = 'FixIt'
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
   #  enable PWA
-  enablePWA = true
+  enablePWA = false
   #  whether to add external Icon for external links automatically
   externalIcon = false
   #  FixIt will, by default, inject a theme meta tag in the HTML head on the home page only.
