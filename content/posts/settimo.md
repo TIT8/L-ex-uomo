@@ -9,9 +9,9 @@ tag: "poesia"
 
 Il muro è bianco.  
 Poteva essere di un altro colore?  
-La frase è semplice e la sua semplicità ne nasconde un fatto.  
-Per vedere il muro devo aprire gli occhi e poter vedere,   
-quindi essere vivo. E poi,  
+La frase è semplice e la sua semplicità nasconde un fatto.  
+Provare ad immaginarlo non mi fa vedere il colore,  
+devo per forza aprire gli occhi e solo allora,  
 il muro è bianco.  
 Poteva essere di un altro colore?  
 No, perchè il bianco non è un colore, bianco sono tutti i colori,  
