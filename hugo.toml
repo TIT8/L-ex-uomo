@@ -739,7 +739,7 @@ theme = 'FixIt'
 
   #  Reading progress bar
   [params.readingProgress]
-    enable = true
+    enable = false
     # Available values: ["left", "right"]
     start = "left"
     # Available values: ["top", "bottom"]
