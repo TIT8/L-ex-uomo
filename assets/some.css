@@ -2,6 +2,10 @@ p {
     font-size: 1.2em;
 }
 
-h1 {
-    font-size: 2em;
+.single-title {
+    font-size: 1.8rem;
+}
+
+.header-title {
+    font-size: 1.8rem;
 }
