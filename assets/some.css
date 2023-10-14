@@ -2,10 +2,10 @@ p {
     font-size: 1.2em;
 }
 
-.single-title {
+.single .single-title {
     font-size: 1.8rem;
 }
 
-.header-title {
+#header-desktop .header-wrapper .header-title {
     font-size: 1.8rem;
 }
