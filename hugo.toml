@@ -889,20 +889,10 @@ theme = 'FixIt'
       # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
-    identifier = "rubriche"
-    pre = ""
-    post = ""
-    name = "Rubriche"
-    url = "/rubriche/"
-    title = ""
-    weight = 2
-    [menu.main.params]
-      icon = "fa-solid fa-th"
-  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
-    name = "Tags"
+    name = "Rubriche"
     url = "/tags/"
     title = ""
     weight = 3
