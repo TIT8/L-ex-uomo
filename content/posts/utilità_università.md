@@ -1,5 +1,5 @@
 ---
-title: "A cosa serve l'università?"
+title: A cosa serve l'università?
 weight: -8
 date: 2023-10-19
 ---
