@@ -1,7 +1,9 @@
 p {
     font-size: 1.2em;
-    line-height: 30px;
+    line-height: 32px;
     margin: 50px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .single .single-title {
