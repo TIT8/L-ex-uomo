@@ -1,3 +1,3 @@
 ---
-title: "Poesia"
+title: Poesia
 ---
