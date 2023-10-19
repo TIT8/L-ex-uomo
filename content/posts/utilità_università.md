@@ -20,3 +20,5 @@ Grazie all’università pensate a problemi nuovi, vi ponete domande nuove e all
 Potenzialmente anche il lavoro può arrivare allo stesso risultato, ma dipende dal lavoro, non è detto che ci riesca in un tempo utile e potrebbe non essere la causa principale della vostra elevazione (banalmente i soldi che ne derivano e l’uso che ne fate può elevarvi).
 
 L’università no! Lei è diretta, con impegno sarete elevati a pensare, vi sarete tolti in parte la paura dell’errore (il vostro più grande alleato) e finalmente avrete imparato ad imparare! E per fortuna non avrete imparato quasi nulla, se non che siete solo all’inizio.
+
+L'università vi risparmia tempo e in pochi anni sarete migliori rispetto a prima. Neppure la vecchiaia lavora così bene.
