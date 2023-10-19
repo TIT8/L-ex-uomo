@@ -907,7 +907,7 @@ theme = 'FixIt'
     name = "About"
     url = "/about/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Info su di noi"
     weight = 3
     # FixIt 0.2.14 | NEW add user-defined content to menu items
     [menu.main.params]
