@@ -5,8 +5,6 @@ date: 2023-09-24
 tag: "poesia"
 ---
 
-&nbsp;
-
 Il muro è bianco.  
 Quale banalità!  
 La frase è semplice e vuota.  
