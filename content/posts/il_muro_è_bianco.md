@@ -2,7 +2,8 @@
 title: "Il muro è bianco"
 weight: -7
 date: 2023-09-24
-tags: Poesia
+tags: 
+    - Poesia
 ---
 
 Il muro è bianco.  
