@@ -2,6 +2,8 @@
 title: A cosa serve l'università?
 weight: -8
 date: 2023-10-19
+tags: 
+    - Riflessioni
 ---
 
 Tutto quello che si studia lì dentro lo si può imparare da soli semplicemente comprando i libri suggeriti dai prof. Certo il prof è in grado di srotolare più pragmaticamente gli argomenti importanti, filtrandoli, così in tre mesi e con calma lo studente può apprendere quella nuova conoscenza. Da autodidatta ci si può mettere di più o di meno a seconda del “proattivismo”.
