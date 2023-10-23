@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://lexuomo.netlify.app/'
 languageCode = 'it'
 title = "L'ex uomo"
 theme = 'FixIt'
