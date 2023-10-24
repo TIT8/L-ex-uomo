@@ -1,6 +1,6 @@
 ---
-title: "Vogliono trasformare il paradiso in un albergo"
-subtitle: "Sembra incredibile, ma è ciò che risulta dagli ultimi dati divulgati dal CBANP: «Abbiamo le prove delle recenti deviazioni verso destra della politica angelica»."
+title: Vogliono trasformare il paradiso in un albergo
+subtitle: Sembra incredibile, ma è ciò che risulta dagli ultimi dati divulgati dal CBANP. «Abbiamo le prove delle recenti deviazioni verso destra della politica angelica».
 weight: -4
 date: 2023-09-17
 tags: 
@@ -22,7 +22,7 @@ tags:
 
 ------------------
 
-[^1]: Si rimanda la lettura dei dati completi al sito ufficiale del CBANP: CBANP.Para.com  
+[^1]: Si rimanda la lettura dei dati completi al sito ufficiale del CBANP: [CBANP.Para.com]({{< ref "/hidden" >}})  
 [^2]: Tutti i diritti riservati all’editore Apostoli Edizioni, pp. 123-124.  
 [^3]: Numero 482, articolo <span style="font-variant:small-caps;">xxxvii</span>.  
 [^4]: Science, Oasi di pace, n°. <span style="font-variant:small-caps;">mclxvii</span>, pp. 666-673.  
