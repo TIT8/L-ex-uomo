@@ -11,7 +11,7 @@ p {
     font-size: 1.8rem;
 }
 
-.single .single-subtitle {
+.single .single-subtitle p {
     margin: 0.8rem 0;
     line-height: 1.5rem;
 }
