@@ -816,7 +816,7 @@ theme = 'FixIt'
   name = ""
   email = ""
   link = ""
-  avatar = "" # 
+  avatar = "/favicon-16x16.png" # 
 
 # Sitemap config
 [sitemap]
