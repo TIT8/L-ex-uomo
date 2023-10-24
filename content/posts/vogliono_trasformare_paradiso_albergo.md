@@ -24,6 +24,6 @@ tags:
 
 [^1]: Si rimanda la lettura dei dati completi al sito ufficiale del CBANP: CBANP.Para.com  
 [^2]: Tutti i diritti riservati all’editore Apostoli Edizioni, pp. 123-124.  
-[^3]: Numero 482, articolo *xxxvii*.  
-[^4]: Science, Oasi di pace, n°. *mclxvii*, pp. 666-673.  
+[^3]: Numero 482, articolo <span style="font-variant:small-caps;">xxxvii</span>.  
+[^4]: Science, Oasi di pace, n°. <span style="font-variant:small-caps;">mclxvii</span>, pp. 666-673.  
 [^5]: Padre, Figlio e Spirito Santo, n.d.r.  
