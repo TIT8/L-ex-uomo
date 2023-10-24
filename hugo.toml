@@ -199,7 +199,7 @@ theme = 'FixIt'
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
-      social = true
+      social = false
       #  disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
@@ -425,7 +425,7 @@ theme = 'FixIt'
       Facebook = true
       Linkedin = true
       Whatsapp = true
-      Pinterest = false
+      Pinterest = true
       Tumblr = false
       HackerNews = false
       Reddit = false
