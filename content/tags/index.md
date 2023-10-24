@@ -1,4 +1,4 @@
 ---
-title: Collane
+title: "Collane"
 comment: false
 ---
