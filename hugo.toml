@@ -889,11 +889,11 @@ theme = 'FixIt'
       # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
-    identifier = "tags"
+    identifier = "collane"
     pre = ""
     post = ""
     name = "Collane"
-    url = "/tags/"
+    url = "/collane/"
     title = ""
     weight = 2
     [menu.main.params]
