@@ -868,7 +868,6 @@ theme = 'FixIt'
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
 
 [menu]
   [[menu.main]]
@@ -901,7 +900,7 @@ theme = 'FixIt'
     title = ""
     weight = 2
     [menu.main.params]
-      icon = "fa-solid fa-tags"
+      icon = "fa-solid fa-th"
   [[menu.main]]
     identifier = "about"
     # you can add extra information before the name (HTML format is supported), such as icons
