@@ -1,4 +1,3 @@
 ---
-title: Minchieste
 comment: false
 ---
