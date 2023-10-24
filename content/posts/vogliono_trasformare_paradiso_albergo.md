@@ -2,7 +2,7 @@
 title: Vogliono trasformare il paradiso in un albergo
 subtitle: Sembra incredibile, ma è ciò che risulta dagli ultimi dati divulgati dal CBANP. «Abbiamo le prove delle recenti deviazioni verso destra della politica angelica».
 weight: -3
-date: 2023-09-17
+date: 2023-09-20
 categories: 
     - Minchieste
 ---
