@@ -867,6 +867,7 @@ theme = 'FixIt'
   taxonomy = ["HTML", "RSS"]
 
 [taxonomies]
+  category = "categories"
   tag = "tags"
 
 [menu]
@@ -892,11 +893,11 @@ theme = 'FixIt'
       # FixIt 0.2.16 | NEW set menu item type, optional values: ["mobile", "desktop"]
       type = ""
   [[menu.main]]
-    identifier = "tags"
+    identifier = "categories"
     pre = ""
     post = ""
     name = "Collane"
-    url = "/tags/"
+    url = "/categories/"
     title = ""
     weight = 2
     [menu.main.params]
