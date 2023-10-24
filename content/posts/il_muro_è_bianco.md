@@ -1,6 +1,6 @@
 ---
 title: Il muro è bianco
-weight: -7
+weight: -5
 date: 2023-09-24
 categories: 
     - Poesie
