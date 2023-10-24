@@ -1,4 +1,3 @@
 ---
 title: Collane
-comment: false
 ---
