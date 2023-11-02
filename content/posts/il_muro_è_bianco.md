@@ -7,8 +7,10 @@ categories:
 ---
 
 Il muro è bianco.  
-Rigetta ogni tipo di onda nello spettro osservabile dal mio occhio.  
-Il mio occhio gode di tutto ciò che il muro ha scartato.  
-Gode del verde insieme al magenta e del rosso insieme al grigio.  
+Rigetta ogni onda nello spettro osservabile.  
+L'occhio gode della ricchezza che il muro ha scartato.  
+Gode del trifoglio insieme al magenta e del beige con l'argento.  
+Vede lenzuola stese nel giallo imperiale.  
+E cancelli mai chiusi nel blu fiordaliso.  
 Il muro è bianco.  
 E io sono pieno dei suoi colori.  
