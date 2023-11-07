@@ -5,7 +5,7 @@ theme = 'FixIt'
 
 [params]
   #  FixIt theme version
-  version = "0.2.18-lts.3" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
+  version = "0.2.18-lts.4" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
   description = "Parleremo di tutto, tranne che di te"
   # site keywords
